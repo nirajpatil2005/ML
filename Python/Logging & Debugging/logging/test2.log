@@ -1,0 +1,6 @@
+2024-12-14 18:16:04,884 this is for info
+2024-12-14 18:17:01,715 this is for warning
+2024-12-14 18:17:43,922 this is for error
+2024-12-14 18:18:08,037 this is for exception
+NoneType: None
+2024-12-14 18:18:45,393 this is for critical

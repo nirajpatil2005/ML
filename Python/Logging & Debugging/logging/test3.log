@@ -1,0 +1,7 @@
+2024-12-16 17:34:00,889 - root -  INFO -  main log
+2024-12-16 17:34:03,058 - logger1.area1 -  INFO -  this is info for logger 1
+2024-12-16 17:34:03,061 - logger2.area2 -  DEBUG -  this is debugger for logger 2
+2024-12-16 17:34:03,063 - logger2.area2 -  INFO -  this is info for logger 2
+2024-12-16 17:34:05,063 - logger1.area1 -  DEBUG -  this is debugger for logger 1
+2024-12-16 17:34:08,212 - user1 -  INFO -  this is info for logger 1
+2024-12-16 17:34:08,215 - user2 -  DEBUG -  this is debugger for logger 2

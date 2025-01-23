@@ -1,0 +1,13 @@
+'2024-12-14 17:57:32,001' this is info
+'2024-12-14 17:57:47,721' thois is for warning
+'2024-12-14 17:58:08,498' this is for error
+'2024-12-14 18:00:14,960' 40
+'2024-12-14 18:00:30,807' 40
+'2024-12-14 18:00:30,807' error ocured
+'2024-12-14 18:00:30,807' division by zero
+Traceback (most recent call last):
+  File "C:\Users\niraj\AppData\Local\Temp\ipykernel_73104\375219923.py", line 4, in test
+    div=a/b
+        ~^~
+ZeroDivisionError: division by zero
+'2024-12-14 18:05:41,930' 41

@@ -1,0 +1,8 @@
+for error of showing list_database_name:(For local MongoDB)
+0-?first created essential folder in my dir and provide 
+   that address for mongodb db path
+1-> first go  to cmd
+2->type:
+    mkdir C:\data\db
+    mongod --dbpath D:\ML\Database\MongoDB\Essential
+    "Add your desired project address"

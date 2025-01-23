@@ -1,0 +1,4 @@
+Ex :- car (entity)  Audi Q7 (Instance)
+      animal (class)  Bison(Instance)
+
+      object is variable of classdiugaiful1213913726496jhslgfliglgle685ukyfkufvl

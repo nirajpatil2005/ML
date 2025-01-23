@@ -1,0 +1,17 @@
+2024-12-21 19:08:21,731 root INFO getting started fn openFile()
+2024-12-21 19:08:21,731 root INFO opening present file
+2024-12-21 19:08:21,734 root INFO Ex :- car (entity)  Audi Q7 (Instance)
+      animal (class)  Bison(Instance)
+
+      object is variable of classdiugaiful1213913726496jhslgfliglgle685
+2024-12-21 19:08:21,734 root INFO closing file
+2024-12-21 19:08:21,734 root INFO ending openFile()
+2024-12-21 19:08:21,741 root INFO getting started fn openFile()
+2024-12-21 19:08:21,741 root INFO opening present file
+2024-12-21 19:08:21,743 root INFO gaglesduo
+2024-12-21 19:08:21,743 root INFO closing file
+2024-12-21 19:08:21,743 root INFO ending openFile()
+2024-12-21 19:08:21,749 root INFO getting started fn readFile()
+2024-12-21 19:08:21,749 root INFO ending readFile()
+2024-12-21 19:08:21,756 root INFO getting started fn File()
+2024-12-21 19:08:25,438 root INFO ending readFile()
